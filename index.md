@@ -170,8 +170,6 @@ Hey there, I’m Mahmoud, an iOS Developer from Toronto, Canada. I specialize in
 
 <h1 align="center">Past Work</h1>
 
----
-
 <p align="center">
 	<img src="/images/worms/worms_app_icon.png" alt="App Icon" width="100" height="100">
 </p>
