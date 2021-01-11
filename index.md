@@ -61,6 +61,4 @@ Hey there, I’m Mahmoud, an iOS Developer from Toronto, Canada. I specialize in
 	<img src="/images/thinkers/thinkers_5.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_6.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_7.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_8.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_9.png" alt="Screenshot" width="220" height="417">
 </p>
