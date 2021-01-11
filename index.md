@@ -44,7 +44,7 @@ Hey there, I’m Mahmoud, an iOS Developer from Toronto, Canada. I specialize in
 	Transform the ideas in your THINKERS Notebook from simple hand-written notes on a page into high-resolution digital images that you can access, edit, and share to anyone in the world.
 </p>
 <p align="center">
-	<code>XCode 11</code>
+	<code>XCode 12</code>
 	<code>Swift 5</code>
 	<code>UIKit/AutoLayout</code>
 	<code>Cocoapods</code>
@@ -52,12 +52,6 @@ Hey there, I’m Mahmoud, an iOS Developer from Toronto, Canada. I specialize in
 	<code>Crashlytics</code>
 	<code>Fastlane</code>
 	<code>CircleCI</code>
-</p>
-<p align="center">
-	<code>Android Studio</code>
-	<code>Java/Kotlin</code>
-	<code>Architecture Components</code>
-	<code>Jetpack Library</code>
 </p>
 <p align="center">
 	<img src="/images/thinkers/thinkers_1.png" alt="Screenshot" width="220" height="417">
@@ -69,46 +63,4 @@ Hey there, I’m Mahmoud, an iOS Developer from Toronto, Canada. I specialize in
 	<img src="/images/thinkers/thinkers_7.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_8.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_9.png" alt="Screenshot" width="220" height="417">
-</p>
-
-
-
-<p align="center">
-	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
-</p>
-<h3 align="center">UTD Mobile</h3>
-<p align="center">
-	<a href="https://apps.apple.com/us/app/utd-mobile/id1299726915">
-		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
-	</a>
-	<a href="https://play.google.com/store/apps/details?id=edu.utdallas.utd&hl=en_US">
-		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
-	</a>
-</p>
-<p align="center">
-	Stay connected to UT Dallas anytime, anywhere. From campus way finding, to information about the most current events and activities, to Comet sports and beyond, UTD Mobile keeps you informed.
-</p>
-<p align="center">
-	<code>XCode</code>
-	<code>Swift</code>
-	<code>UIKit/AutoLayout</code>
-	<code>Cocoapods</code>
-	<code>Crashlytics</code>
-	<code>Fabric</code>
-	<code>Fastlane</code>
-</p>
-<p align="center">
-	<code>Android Studio</code>
-	<code>Java/Kotlin</code>
-	<code>Architecture Components</code>
-	<code>Jetpack Library</code>
-</p>
-<p align="center">
-	<img src="/images/utd_mobile/utd_mobile_1.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/utd_mobile/utd_mobile_2.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/utd_mobile/utd_mobile_3.png" alt="Screenshot" width="220" height="417">
-</p>
-
-<p align="center">
-	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
 </p>
